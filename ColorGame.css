@@ -1,0 +1,42 @@
+body{
+    background:#232323;
+}
+
+#guess{
+	margin: 0px;
+}
+
+.square{
+	width: 15%;
+	padding-bottom: 15%;
+	background:pink;
+	margin: 1.66%;
+	float: left;
+}
+
+#container{
+	margin: 0 auto;
+	max-width: 600px;
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+#colorDisplay{
+	text-transform: uppercase;
+	font-size: 3.0em;
+}
+
+#navbar{
+	background: white;
+}
+
+#Great{
+	color: black;
+	width: 20%;
+	margin: 0 auto;
+	background: pink;
+}
+
